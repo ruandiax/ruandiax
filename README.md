@@ -18,9 +18,6 @@
   <img align="center" alt="Ruan-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Ruan-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
  
- 
-  <img align="right" alt="mamacovampiro" height="120" width="130" src="https://ruandiax.github.io/RD14X/avatar.jpg">
- 
 </div>
   
   ##
