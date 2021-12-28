@@ -12,7 +12,7 @@
  
 <div> 
   
-  <a href = "https://ruandiax.github.io/RD14X/"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=bankofamerica&logoColor=white" target="_blank"></a>
+  <a href = "https://ruandiax.dev"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=bankofamerica&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruandiax" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
